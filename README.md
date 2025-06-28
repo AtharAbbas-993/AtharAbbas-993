@@ -20,7 +20,6 @@ A **Machine Learning & Computer Vision Engineer** passionate about building inte
 
 ---
 ## Languages and Tools:
-## 🛠️ Languages & Tools
 
 <p align="center">
   <!-- ML/DL -->
