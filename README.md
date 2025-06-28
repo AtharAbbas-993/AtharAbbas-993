@@ -71,5 +71,3 @@ A **Machine Learning & Computer Vision Engineer** passionate about building inte
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](03039150007)
 
 ---
-
-**📈 Let’s build AI that makes lives better, InshaAllah.**
