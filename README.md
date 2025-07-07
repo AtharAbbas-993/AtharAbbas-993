@@ -14,7 +14,7 @@ A **Machine Learning & Computer Vision Engineer** passionate about building inte
 * 🗣️ **Natural Language Processing (NLP)**
 * 🦙 **LLMs & Fine-tuning**
 * ⚙️ **API Development**
-*    **Agentic AI**
+* 🤖 **Agentic AI**
 * ☁️ **AWS Cloud**
 * 📊 **Data Analysis & Visualization**
 * 🎯 **AI System Design & Deployment**
