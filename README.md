@@ -2,7 +2,7 @@
 
 # 👨‍💻 I'm Athar Abbas 🚀
 
-A **AI & Machine Learning Engineer** passionate about building intelligent systems that **see, Learn, think, and act**.
+**AI & Machine Learning Engineer** passionate about building intelligent systems that **see, Learn, think, and act**.
 
 ---
 
